@@ -7,10 +7,10 @@ If you are looking to prevent your computer from entering sleep mode or locking 
 However, if you still want a simple C# console application that moves the mouse cursor periodically, here it is. Please use it responsibly and only for legitimate purposes.
 
 ## How to Use
-1. Open Visual Studio Professional 2022 and create a new Console App (.NET Framework) project.
-2. Set the target framework to .NET Framework 4.7.2.
-3. Replace the contents of the Program.cs file with the provided code.
-4. Build and run the application by pressing F5.
+1. Open **Visual Studio 2022** and create a new **Console App (.NET Framework)** project.
+2. Set the target framework to **.NET Framework 4.7.2**.
+3. Replace the contents of the `Program.cs` file with the provided code.
+4. Build and run the application by pressing **F5**.
 
 The application moves the mouse cursor by 1 pixel every 4 minutes to simulate activity. To stop the application, press Ctrl+C in the console window.
 
