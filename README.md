@@ -12,7 +12,7 @@ However, if you still want a simple C# console application that moves the mouse 
 3. Replace the contents of the `Program.cs` file with the provided code.
 4. Build and run the application by pressing **F5**.
 
-The application moves the mouse cursor by 1 pixel every 4 minutes to simulate activity. To stop the application, press Ctrl+C in the console window.
+The application moves the mouse cursor by 1 pixel every 4 minutes to simulate activity. To stop the application, press `Ctrl+C` in the console window.
 
 ## Code
 Refer to the provided code in the previous responses for the complete `Program.cs` file contents.
