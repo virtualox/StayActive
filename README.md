@@ -1,6 +1,6 @@
 ## StayActive - Mouse Mover
 
-*Disclaimer:* Using a program that simulates activity to avoid being marked as "away" or "AFK" on your computer may be against the policies of your organization or the services you're using. It is important to adhere to the rules and guidelines set by your employer or the platform you're using.
+**Disclaimer:** Using a program that simulates activity to avoid being marked as "away" or "AFK" on your computer may be against the policies of your organization or the services you're using. It is important to adhere to the rules and guidelines set by your employer or the platform you're using.
 
 If you are looking to prevent your computer from entering sleep mode or locking the screen due to inactivity, you can simply adjust the power and sleep settings in Windows.
 
